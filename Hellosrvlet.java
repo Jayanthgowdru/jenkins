@@ -14,6 +14,6 @@ public class HelloServlet extends HttpServlet {
         resp.setContentType("text/html");
 
         resp.getWriter().println(
-            "<h1>Hello from Java Maven Web Application!</h1>");
+            "<h1>Hello from Java Maven Web Application!!!!</h1>");
     }
 }
