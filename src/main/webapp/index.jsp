@@ -5,7 +5,7 @@
 
 <body>
 
-<h2>Welcome to Java Maven Web Application</h2>
+<h2>Welcome to Java Maven Web Application for updated version</h2>
 
 <a href="hello">Click Here</a>
 
